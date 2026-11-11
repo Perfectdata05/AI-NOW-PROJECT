@@ -34,9 +34,13 @@ This is where we include some basic lines of code or some of the DAX expressions
 
 Eg.
 ```
-Total Revenue = SUM(Trips[Total Revenue])
-
+Total Revenue = SUM(Daily Trips[TicketRevenue])
 ```
 
-  
+```
+Total Passengers = SUM(Daily Trips[PassengerCount])
+```
+```
+Total Trips = COUNTROWS(TripID)
+```
 Dixnova group bootcamp PowerBI project on Public Transportation Analytics
