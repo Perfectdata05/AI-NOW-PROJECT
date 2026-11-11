@@ -1,5 +1,6 @@
 # AI-NOW-Project
-
+# AI NOW Project Documentation
+## Project Topic: SmartMove Transportation Intelligence 
 
 [Project Overview](#project-overview)
 
@@ -15,11 +16,6 @@
 
 [Visualizations](#visualizations)
 
-
-
-
-# AI NOW Project Documentation
-## Project Topic: SmartMove Transportation Intelligence  
 
 ### Project Overview
 
