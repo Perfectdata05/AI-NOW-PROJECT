@@ -20,7 +20,23 @@ This primary source of Data used for this project is Transportation Operational 
 -	Data cleaning 
 -	Data transformation 
 -	Validation 
--	Standardization 
+-	Standardization
+
+### Data Modeling 
+- Relationship modeling 
+-	Analytical data model 
+-	DAX measures
+
+
+### Data Analysis
+
+This is where we include some basic lines of code or some of the DAX expressions used in the analysis.
+
+Eg.
+```
+Total Revenue = SUM(Trips[Total Revenue])
+
+```
 
   
 Dixnova group bootcamp PowerBI project on Public Transportation Analytics
