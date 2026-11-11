@@ -43,4 +43,18 @@ Total Passengers = SUM(Daily Trips[PassengerCount])
 ```
 Total Trips = COUNTROWS(TripID)
 ```
+
+### Visualizations
+________
+
+<img width="1102" height="687" alt="smartmove" src="https://github.com/user-attachments/assets/661c7d36-76ff-4058-be0d-73e28d98d012" />
+
+________
+
+<img width="1332" height="722" alt="smartpowerbi" src="https://github.com/user-attachments/assets/6e03d21e-ae6f-4397-8f51-196d8193a9f4" />
+
+________
+
+<img width="1317" height="730" alt="AIPOWERBI" src="https://github.com/user-attachments/assets/f18d5eb2-0cac-47eb-a8f1-192bf3f90574" />
+
 Dixnova group bootcamp PowerBI project on Public Transportation Analytics
