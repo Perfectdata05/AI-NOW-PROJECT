@@ -1,5 +1,23 @@
 # AI-NOW-Project
 
+
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Preparation](#data-preparation)
+
+[Data Modeling](#data-modeling)
+
+[Data Analysis](#data-analysis)
+
+[Visualizations](#visualizations)
+
+
+
+
 # AI NOW Project Documentation
 ## Project Topic: SmartMove Transportation Intelligence  
 
